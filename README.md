@@ -1,8 +1,8 @@
-🦜🕸️ LangGraph & Complex AI Agents in Python
+🦜🕸️ **LangGraph & Complex AI Agents in Python**
 
 Welcome to my LangGraph & AI Agents repository! 🚀 This project contains hands-on code, workflows, and stateful multi-agent systems built while following the LangGraph Complete Course for Beginners by freeCodeCamp.
 
-📌 Overview
+📌 **Overview**
 
 This project explores building production-grade, stateful, multi-agent LLM applications using LangGraph and Python. LangGraph extends LangChain to enable cyclic graphs, flexible state management, human-in-the-loop interactions, and robust agent orchestration.
 
